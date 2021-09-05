@@ -224,7 +224,7 @@ body {
         
     }
 
-    @media only screen (min-width: 768px){
+    @media screen and (max-width: 600px){
         .btn-custom {
             background-color:  rgba(27, 33, 33, 0.9);
             border-radius: 75px;
