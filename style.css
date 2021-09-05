@@ -4,13 +4,6 @@ body {
     background-size: contain;
 }
 
-@font-face {
-  font-family: 'Lethal Slime Regular';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Lethal Slime Regular'), url('Lethal Slime.woff') format('woff');
-  }
-  
 .layer {
     width: 100wh;
     /* height: 90vh; */
@@ -116,7 +109,7 @@ body {
     .linktree {
       width: 120px;
       height: 120px;
-      background-image: url("https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/40173d0526a1a493fd85fe93e888d92a~c5_720x720.jpeg?x-expires=1630872000&x-signature=IaNJx%2FKxk0DPBjBePaxFO5kR5fg%3D");
+      background-image: url("https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/40173d0526a1a493fd85fe93e888d92a~c5_720x720.jpeg?x-expires=1630951200&x-signature=V3rQC7ttE2swtCAa5gifXm%2F0BF4%3D");
       background-size: cover;
       background-position: 50% 50%;
       
@@ -130,6 +123,7 @@ body {
         border-color: none;
         color: #BAD9B5;
         text-align: center;
+        line-height: 3.25;
     }
 
     .kates {
