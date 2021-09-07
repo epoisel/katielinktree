@@ -90,8 +90,9 @@ body {
    .svg {
      display: block;
      margin: 0 auto;
-     max-width: 50%;
+     max-width: 80%;
      float: center;
+     min-width: 250px;
    }
    .icon-box {
      display: flex;
@@ -291,8 +292,8 @@ body {
     
 
     .product-pic9 {
-        width: 120px;
-        height: 120px;
+        width: 180px;
+        height: 180px;
         float: left;
         border-radius: 60px;
         background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnkOaButEMZCDmXPDm9FZ7I2kUYIxPuJZItOnIcUcBfqveNnfY97eeOurhLvZ_VPzhwXWkzg7B&usqp=CAc");
@@ -303,6 +304,16 @@ body {
     
 /* media queries */
     @media screen and (max-width: 1878.4px) {
+
+      .linktree {
+        width: 150px;
+        height: 150px;
+        background-image: url("katieK.jpeg");
+        background-size: cover;
+        background-position: 50% 50%;
+        border-radius: 150px;
+        
+      }
         .btn-custom {
             background-color:  rgba(27, 33, 33, 0.9);
             border-radius: 25px;
