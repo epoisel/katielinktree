@@ -1,4 +1,11 @@
 
+ @font-face {
+  font-family: 'Lethal Slime Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Lethal Slime Regular'), url('Lethal Slime.woff') format('woff');
+  }
+  
 body {
     
     background-size: contain;
