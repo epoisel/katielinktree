@@ -10,7 +10,7 @@ body {
     
     background-size: contain;
     background-color: #BAD9B5;
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(1.5rem);
     background-image: url("assets/repeatGrid2.png");
     
     
