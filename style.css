@@ -110,9 +110,7 @@ body {
      
    }
 
-   .cameo {
-     width: 100px;
-   }
+   
    h2 {
     color: rgba(27, 33, 33, 0.9);
    }
@@ -308,12 +306,12 @@ body {
         
     }
     
-
-    @media screen and (max-width: 1878.4px){
+/* media queries */
+    @media screen and (width: 1878.4px) {
         .btn-custom {
             background-color:  rgba(27, 33, 33, 0.9);
             border-radius: 25px;
-            font-size: small;
+            font-size: 1.4rem;
             border-color: none;
             color: #BAD9B5;
             text-align: center;
