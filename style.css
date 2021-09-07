@@ -79,7 +79,7 @@ body {
     font-size: 35px;
     color: rgba(27, 33, 33, 0.9);
     margin-top: 10px;
-    background-color: yellow;
+    
    }
    h2 {
     color: rgba(27, 33, 33, 0.9);
@@ -283,7 +283,7 @@ body {
          /* multi use clr */
     .product-pic1 {
       width: 60px;
-      height: 160px;
+      height: 60px;
       float: left;
       border-radius: 60px;
       background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclaoKOALaGeF7OMR7f0Hay_sVZpz2OjMC_F43hrs7wxeMQNDc4qZ8DBzopYdF3Ejrlxqf0wru&usqp=CAc");
