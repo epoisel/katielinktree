@@ -1,23 +1,24 @@
 
 body {
-    background-image: url("assets/repeatGrid1.png");
+    background-image: url("assets/repeatGrid2.png");
     background-size: contain;
+    background-color: #BAD9B5;
 }
 
 .layer {
     width: 100wh;
     /* height: 90vh; */
     color: #fff;
-    background: linear-gradient(-45deg,  #BAD9B5, #41978B, #23D5AB);
+    /* background:   #BAD9B5; */
     background-size: 400% 400%;
-    -webkit-animation: Gradient 15s ease infinite;
+    /* -webkit-animation: Gradient 15s ease infinite;
     -moz-animation: Gradient 15s ease infinite;
-    animation: Gradient 15s ease infinite;
+    animation: Gradient 15s ease infinite; */
     opacity: 95%;
     
   }
   
-  @-webkit-keyframes Gradient {
+  /* @-webkit-keyframes Gradient {
     0% {
       background-position: 0% 50%
     }
@@ -51,7 +52,7 @@ body {
     100% {
       background-position: 0% 50%
     }
-  }
+  } */
   
    h4 {
     font-family: "Lethal Slime";
@@ -124,6 +125,8 @@ body {
         color: #BAD9B5;
         text-align: center;
         line-height: 3.25;
+        font-family: 'Poppins', sans-serif;
+        opacity: 95%;
     }
 
     .kates {
