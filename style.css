@@ -1,10 +1,5 @@
 
- @font-face {
-  font-family: 'Lethal Slime Regular';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Lethal Slime Regular'), url('Lethal Slime.woff') format('woff') !important;
-  }
+
 
 body {
     
@@ -186,18 +181,18 @@ body {
     .btn-custom {
         background-color:  rgba(27, 33, 33, 0.9);
         border-radius: 25px;
-        font-size: xx-large;
+        font-size: small;
         border-color: none;
         color: #BAD9B5;
         text-align: center;
-        line-height: 3.25;
+        line-height: 9;
         font-family: 'Poppins', sans-serif;
         opacity: 100%;
     }
 
-    .line-height {
+    /* .line-height {
       line-height: 125%;
-    }
+    } */
 
     .kates {
         text-decoration: none;
@@ -307,11 +302,12 @@ body {
     }
     
 /* media queries */
-    @media screen and (width: 1878.4px) {
+    @media screen and (max-width: 1878.4px) {
         .btn-custom {
             background-color:  rgba(27, 33, 33, 0.9);
             border-radius: 25px;
-            font-size: 1.4rem;
+            font-size: small;
+            line-height: 3.25rem;
             border-color: none;
             color: #BAD9B5;
             text-align: center;
