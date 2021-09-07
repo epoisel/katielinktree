@@ -5,7 +5,7 @@
   font-weight: normal;
   src: local('Lethal Slime Regular'), url('Lethal Slime.woff') format('woff');
   }
-  
+
 body {
     
     background-size: contain;
@@ -40,8 +40,9 @@ body {
     background-color: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur (5px);
     border-radius: 50px;
-
-
+    background: hsla(0, 0%, 100%, .3);
+    box-shadow: 5px 3px 30px black;
+    
   }
   
   /* @-webkit-keyframes Gradient {
@@ -154,7 +155,7 @@ body {
         text-align: center;
         line-height: 3.25;
         font-family: 'Poppins', sans-serif;
-        opacity: 95%;
+        opacity: 100%;
     }
 
     .line-height {
