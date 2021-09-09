@@ -10,6 +10,17 @@ body {
     
     
 }
+.ycl {
+  font-family: 'Poppins', sans-serif !important;
+  padding-bottom: 5px;
+  max-width: 400px;
+  margin: 0 auto;
+  /* background-color: rgba(124, 211, 177, 0.5);
+  border-radius: 5px; */
+
+  
+  
+}
 
 .layer {
     width: 100wh;
