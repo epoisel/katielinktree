@@ -15,8 +15,10 @@ body {
   padding-bottom: 5px;
   max-width: 400px;
   margin: 0 auto;
-  /* background-color: rgba(124, 211, 177, 0.5);
-  border-radius: 5px; */
+  background-color: rgba(245, 245, 245, 0.267);
+  border-radius: 10px;
+  -webkit-text-stroke: 2px black;
+	-webkit-text-fill-color: rgba(27, 33, 33, 0.658);
 
   
   
